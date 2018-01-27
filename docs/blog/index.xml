@@ -10,6 +10,28 @@
     <atom:link href="https://linkevery2s.github.io/openjapan/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>お問い合わせ</title>
+      <link>https://linkevery2s.github.io/openjapan/blog/contact/</link>
+      <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://linkevery2s.github.io/openjapan/blog/contact/</guid>
+      <description>&lt;p&gt;&lt;h2 class=&#34;major&#34;&gt;開発者プロフィール&lt;/h2&gt;
+            &lt;i class=&#34;fa fa-flag-o&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; 斎藤　仁志&lt;br&gt;&lt;br&gt;
+            &lt;i class=&#34;fa fa-flag-o&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; 名古屋大学理学部物理学科卒業&lt;br&gt;&lt;br&gt;
+            &lt;i class=&#34;fa fa-flag-o&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; 愛知県在住&lt;br&gt;&lt;br&gt;
+            ＩＴを用いて皆の暮らしのお役に立ちたい！自分に出来ることは何か…毎日奮闘中！&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;                                &amp;lt;a href=&amp;quot;https://twitter.com/hitoshi2s&amp;quot; class=&amp;quot;icon fa-twitter&amp;quot;&amp;gt;&amp;lt;span class=&amp;quot;label&amp;quot;&amp;gt;Twitter&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;
+                                &amp;lt;a href=&amp;quot;https://www.facebook.com/hitoshi.saito.900&amp;quot; class=&amp;quot;icon fa-facebook&amp;quot;&amp;gt;&amp;lt;span class=&amp;quot;label&amp;quot;&amp;gt;Facebook&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;
+                                &amp;lt;a href=&amp;quot;https://www.instagram.com/hitoshi2s/?hl=ja&amp;quot; class=&amp;quot;icon fa-instagram&amp;quot;&amp;gt;&amp;lt;span class=&amp;quot;label&amp;quot;&amp;gt;Instagram&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;
+                                &amp;lt;a href=&amp;quot;http://ameblo.jp/hitoshi51l/&amp;quot; class=&amp;quot;icon fa-globe&amp;quot;&amp;gt;&amp;lt;span class=&amp;quot;label&amp;quot;&amp;gt;Blog&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;
+
+                            &amp;lt;a href=&amp;quot;https://docs.google.com/forms/d/e/1FAIpQLSf-WMoBJRTdA1bmN_SmQ-bsNGeLs1l737d3c9BUNuErjH-KBw/viewform?usp=sf_link&amp;quot; target=&amp;quot;_blank&amp;quot; class=&amp;quot;button&amp;quot;&amp;gt;お問い合わせ&amp;lt;/a&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
       <title>このサービスについて</title>
       <link>https://linkevery2s.github.io/openjapan/blog/about/</link>
       <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
@@ -39,10 +61,52 @@
     
     <item>
       <title>このサービスについて</title>
+      <link>https://linkevery2s.github.io/openjapan/blog/hoken/</link>
+      <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://linkevery2s.github.io/openjapan/blog/hoken/</guid>
+      <description>&lt;p&gt;皆さん初めまして、私、「仁志」と申します。&lt;/p&gt;
+
+&lt;p&gt;このサービスの目的から書いていこうと思います。&lt;/p&gt;
+
+&lt;p&gt;皆さんは、オープンデータをご存じでしょうか？&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>このサービスについて</title>
       <link>https://linkevery2s.github.io/openjapan/blog/it/</link>
       <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://linkevery2s.github.io/openjapan/blog/it/</guid>
+      <description>&lt;p&gt;皆さん初めまして、私、「仁志」と申します。&lt;/p&gt;
+
+&lt;p&gt;このサービスの目的から書いていこうと思います。&lt;/p&gt;
+
+&lt;p&gt;皆さんは、オープンデータをご存じでしょうか？&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>このサービスについて</title>
+      <link>https://linkevery2s.github.io/openjapan/blog/keizai/</link>
+      <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://linkevery2s.github.io/openjapan/blog/keizai/</guid>
+      <description>&lt;p&gt;皆さん初めまして、私、「仁志」と申します。&lt;/p&gt;
+
+&lt;p&gt;このサービスの目的から書いていこうと思います。&lt;/p&gt;
+
+&lt;p&gt;皆さんは、オープンデータをご存じでしょうか？&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>このサービスについて</title>
+      <link>https://linkevery2s.github.io/openjapan/blog/nou/</link>
+      <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://linkevery2s.github.io/openjapan/blog/nou/</guid>
       <description>&lt;p&gt;皆さん初めまして、私、「仁志」と申します。&lt;/p&gt;
 
 &lt;p&gt;このサービスの目的から書いていこうと思います。&lt;/p&gt;
