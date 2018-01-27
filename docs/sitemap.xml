@@ -3,7 +3,22 @@
   
   <url>
     <loc>https://linkevery2s.github.io/openjapan/blog/about/</loc>
-    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://linkevery2s.github.io/openjapan/blog/fukushi/</loc>
+    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://linkevery2s.github.io/openjapan/blog/it/</loc>
+    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://linkevery2s.github.io/openjapan/blog/zei/</loc>
+    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -27,21 +42,6 @@
   </url>
   
   <url>
-    <loc>https://linkevery2s.github.io/openjapan/blog/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://linkevery2s.github.io/openjapan/blog/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://linkevery2s.github.io/openjapan/blog/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://linkevery2s.github.io/openjapan/categories/</loc>
     <lastmod>2017-06-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -49,7 +49,7 @@
   
   <url>
     <loc>https://linkevery2s.github.io/openjapan/blog/</loc>
-    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -70,31 +70,31 @@
   
   <url>
     <loc>https://linkevery2s.github.io/openjapan/</loc>
-    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://linkevery2s.github.io/openjapan/categories/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://linkevery2s.github.io/openjapan/categories/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://linkevery2s.github.io/openjapan/categories/jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://linkevery2s.github.io/openjapan/categories/%E3%83%96%E3%83%AD%E3%82%B0/</loc>
-    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://linkevery2s.github.io/openjapan/categories/%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1it/</loc>
+    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://linkevery2s.github.io/openjapan/categories/%E7%A6%8F%E7%A5%89/</loc>
+    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://linkevery2s.github.io/openjapan/categories/%E7%A8%8E/</loc>
+    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
