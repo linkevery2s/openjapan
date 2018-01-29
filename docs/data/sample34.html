@@ -69,7 +69,7 @@ $(function(){
 		},
 		success:function(xml){
 			$(xml).find("sample").each(function() {
-				$("#sample ul").append('<li><a href="' + $(this).find('url').text() +  '" target="_blank">' + $(this).find('title').text() + '</a></li>');
+				$("#sample ul").append('<li>' + $(this).find('title').text() + '</li>');
 			});
 		}
 	});
