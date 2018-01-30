@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+	<meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" >
+	<link rel="stylesheet" href="css/map.css" />
+	<link rel="stylesheet" href="css/leaflet.css" />
+    <title>日本全国史跡マップ</title>
+    <script src="js/jquery-1.12.0.min.js"></script>
+    <script src="shiseki/shiseki.json"></script>
+    <script type="text/javascript" src="js/leaflet.js"></script>
+    <script type="text/javascript">
+    	function ini(){
+    	map = L.map('map');
+		L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  		attribution: '&copy; <a href="http://osm.org/copyright" target="_blank">OpenStreetMap</a> contributors'
+  		}).addTo(map);
+		map.setView([35.619, 138.466], 5);
+		
+		Geoo();
+		
+    	}
+
+function Geoo(){
+		geoo = L.geoJson(o, {
+
+			style: function (feature) {
+				return feature.properties && feature.properties.style;
+			},
+
+			//onEachFeature: geo_o,
+
+			pointToLayer: function (feature, latlng) {
+				return L.circleMarker(latlng, {
+					radius: 10,
+					fillColor: "#2EFE2E",
+					color: "#000",
+					weight: 1,
+					opacity: 1,
+					fillOpacity: 0.8
+				});
+			}
+		});
+		
+		map.addLayer(geoo);
+}
+
+/*function geo_o(feature, layer) {
+    var popup;
+    if (feature.properties && feature.properties.Name) {
+        popup = "名称：" + feature.properties.Name;
+    }
+    
+    if (feature.properties && feature.properties.Jusho){
+    	popup += '<br>住所：' + feature.properties.Jusho;
+    }
+    
+    layer.bindPopup(popup);
+    
+}*/
+
+
+    </script>
+	<link href="icon/L.Icon.Pulse.css" rel="stylesheet">
+	<script type ="text/javascript" src="icon/L.Icon.Pulse.js"></script>
+  </head>
+
+  <body onLoad="ini()">
+
+		<div id="map">
+		</div>
+  </body>
+</html>
