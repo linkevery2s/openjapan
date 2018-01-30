@@ -60,11 +60,10 @@ h3 {
 
 $(function(){
 	$.ajax({
-		url:'https://www.dropbox.com/s/ik6cukthth7y4lh/sample.xml?dl=0',
+		url:'sample.xml',
 		type:'GET',
 		dataType:'xml',
 		timeout:1000,
-		crossDomain : true,
 		error:function() {
 			alert("ロード失敗");
 		},
