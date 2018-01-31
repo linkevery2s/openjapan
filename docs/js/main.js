@@ -143,7 +143,7 @@
 
 })(jQuery);
 
-
+/*
   $(function(){
    //ページ内のaタグ群を取得。aTagsに配列として代入。
     var aTags = $('a'); 
@@ -158,4 +158,4 @@
 	    location.href = url;
 	  });
     });
-  });
+  });*/
