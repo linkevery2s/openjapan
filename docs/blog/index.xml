@@ -6,8 +6,22 @@
     <description>Recent content in Blog on OPEN JAPAN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 28 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://linkevery2s.github.io/openjapan/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>所得税について</title>
+      <link>https://linkevery2s.github.io/openjapan/blog/article20180201/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://linkevery2s.github.io/openjapan/blog/article20180201/</guid>
+      <description>&lt;p&gt;所得税とは&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://linkevery2s.github.io/openjapan/img/data/zei1.png&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;☆使用したオープンデータ☆&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>南海トラフの巨大地震モデル</title>
@@ -131,20 +145,6 @@
       <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://linkevery2s.github.io/openjapan/blog/nou/</guid>
-      <description>&lt;p&gt;皆さん初めまして、私、「仁志」と申します。&lt;/p&gt;
-
-&lt;p&gt;このサービスの目的から書いていこうと思います。&lt;/p&gt;
-
-&lt;p&gt;皆さんは、オープンデータをご存じでしょうか？&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>このサービスについて</title>
-      <link>https://linkevery2s.github.io/openjapan/blog/zei/</link>
-      <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://linkevery2s.github.io/openjapan/blog/zei/</guid>
       <description>&lt;p&gt;皆さん初めまして、私、「仁志」と申します。&lt;/p&gt;
 
 &lt;p&gt;このサービスの目的から書いていこうと思います。&lt;/p&gt;

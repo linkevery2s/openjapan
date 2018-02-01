@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://linkevery2s.github.io/openjapan/blog/article20180201/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://linkevery2s.github.io/openjapan/blog/article20180128/</loc>
     <lastmod>2018-01-28T00:00:00+00:00</lastmod>
   </url>
@@ -47,11 +52,6 @@
   </url>
   
   <url>
-    <loc>https://linkevery2s.github.io/openjapan/blog/zei/</loc>
-    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://linkevery2s.github.io/openjapan/blog/rule/</loc>
     <lastmod>2018-01-27T00:00:00+00:00</lastmod>
   </url>
@@ -79,7 +79,7 @@
   
   <url>
     <loc>https://linkevery2s.github.io/openjapan/blog/</loc>
-    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -100,7 +100,7 @@
   
   <url>
     <loc>https://linkevery2s.github.io/openjapan/</loc>
-    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -130,7 +130,7 @@
   
   <url>
     <loc>https://linkevery2s.github.io/openjapan/categories/%E7%A8%8E/</loc>
-    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
