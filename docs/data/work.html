@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Chart using XML Data</title>
+  <title>有効求人倍率</title>
   <script type="text/javascript" src="https://canvasjs.com/assets/script/jquery-1.11.1.min.js"></script>
   <script type="text/javascript" src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
   <script type="text/javascript">
@@ -19,10 +19,10 @@
 		
 		var chart = new CanvasJS.Chart("chartContainer", {
 			title: {
-			    text: "Chart Using XML Data",
+			    text: "有効求人倍率"
 			},
 			data: [{
-			    type: "column",
+			    type: "line",
 			    dataPoints: dataPoints,
 			  }]
 		});
