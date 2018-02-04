@@ -21,18 +21,6 @@
     </item>
     
     <item>
-      <title>Fancy App 2</title>
-      <link>https://linkevery2s.github.io/openjapan/itemized/item2/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://linkevery2s.github.io/openjapan/itemized/item2/</guid>
-      <description>
-
-&lt;h2 id=&#34;app-2&#34;&gt;App 2&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Fancy App 3</title>
       <link>https://linkevery2s.github.io/openjapan/itemized/item3/</link>
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
@@ -53,6 +41,20 @@
       <description>
 
 &lt;h2 id=&#34;app-4&#34;&gt;App 4&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>有効求人倍率</title>
+      <link>https://linkevery2s.github.io/openjapan/itemized/jinji/</link>
+      <pubDate>Fri, 03 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://linkevery2s.github.io/openjapan/itemized/jinji/</guid>
+      <description>&lt;p&gt;有効求人倍率&lt;/p&gt;
+
+&lt;iframe src=&#34;https://linkevery2s.github.io/openjapan/data/work.html&#34; width=&#34;100%&#34; height=&#34;300px&#34; frameborder=&#34;yes&#34; scrolling=&#34;yes&#34;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;（出典「労働経済白書」）&lt;/p&gt;
 </description>
     </item>
     

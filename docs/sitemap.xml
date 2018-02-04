@@ -57,11 +57,6 @@
   </url>
   
   <url>
-    <loc>https://linkevery2s.github.io/openjapan/itemized/item2/</loc>
-    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://linkevery2s.github.io/openjapan/itemized/item3/</loc>
     <lastmod>2017-06-22T00:00:00+00:00</lastmod>
   </url>
@@ -69,6 +64,11 @@
   <url>
     <loc>https://linkevery2s.github.io/openjapan/itemized/item4/</loc>
     <lastmod>2017-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://linkevery2s.github.io/openjapan/itemized/jinji/</loc>
+    <lastmod>2017-02-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -86,10 +86,6 @@
   <url>
     <loc>https://linkevery2s.github.io/openjapan/categories/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://linkevery2s.github.io/openjapan/contact/</loc>
   </url>
   
   <url>
