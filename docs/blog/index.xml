@@ -6,8 +6,33 @@
     <description>Recent content in Blog on OPEN JAPAN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 02 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Feb 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://linkevery2s.github.io/openjapan/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>年齢計算に関する法律</title>
+      <link>https://linkevery2s.github.io/openjapan/blog/article20180204/</link>
+      <pubDate>Sun, 04 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://linkevery2s.github.io/openjapan/blog/article20180204/</guid>
+      <description>&lt;p&gt;今日は「年齢計算に関する法律」のお話をします。&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;年齢ハ出生ノ日ヨリ之ヲ起算ス
+
+(明治三十五年法律第五十号)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;出生の日を1日と考えます。&lt;/p&gt;
+
+&lt;p&gt;国民年金に加入するのは、20歳到達日からです。&lt;/p&gt;
+
+&lt;p&gt;この場合、20歳到達日は20歳を迎える誕生日前日となります。&lt;/p&gt;
+
+&lt;p&gt;明治35年に制定された歴史ある法律です。&lt;/p&gt;
+
+&lt;p&gt;年齢について勉強していた時に「こんな法律があるんだ」と思いました。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>有効求人倍率</title>
@@ -27,9 +52,23 @@
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://linkevery2s.github.io/openjapan/blog/article20180201/</guid>
-      <description>&lt;p&gt;所得税とは&lt;/p&gt;
+      <description>&lt;p&gt;所得税は、給料や商売の利益、あるいは土地を売って得た利益などに対して課される税金です。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://linkevery2s.github.io/openjapan/img/data/zei1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;例えば、会社員の給与の場合、&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;①給与収入（年間収入）から給与所得控除を差し引いて所得金額を算出した上で、&lt;/p&gt;
+
+&lt;p&gt;②税金を納める人の税負担能力に配慮するため、所得金額から基礎控除、配偶者控除などの所得控除額を差し引き、&lt;/p&gt;
+
+&lt;p&gt;③その残額に対して超過累進税率（所得が高い部分ほど適用される税率が高くなる仕組み）を適用して税額を計算します。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;このように、所得税は、所得の大きさに応じた負担を求めることができ、また、家族構成などの状況に応じたきめ細かな配慮を行うことできるものとなっています。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/data/zei1.png&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/data/zei2.png&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;☆使用したオープンデータ☆&lt;/p&gt;
 </description>
