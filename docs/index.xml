@@ -127,10 +127,10 @@
     
     <item>
       <title>お問い合わせ</title>
-      <link>https://linkevery2s.github.io/openjapan/blog/contact/</link>
+      <link>https://linkevery2s.github.io/openjapan/itemized/contact/</link>
       <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://linkevery2s.github.io/openjapan/blog/contact/</guid>
+      <guid>https://linkevery2s.github.io/openjapan/itemized/contact/</guid>
       <description>&lt;p&gt;&lt;h2 class=&#34;major&#34;&gt;開発者プロフィール&lt;/h2&gt;
             &lt;i class=&#34;fa fa-flag-o&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;　斎藤　仁志&lt;br&gt;&lt;br&gt;
             &lt;i class=&#34;fa fa-flag-o&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;　名古屋大学理学部物理学科卒業&lt;br&gt;&lt;br&gt;
@@ -146,26 +146,6 @@
                             &lt;ul class=&#34;actions&#34;&gt;
                                 &lt;li&gt;&lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSf-WMoBJRTdA1bmN_SmQ-bsNGeLs1l737d3c9BUNuErjH-KBw/viewform?usp=sf_link&#34; target=&#34;_blank&#34; class=&#34;button&#34;&gt;お問い合わせ&lt;/a&gt;&lt;/li&gt;
                             &lt;/ul&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>このサービスについて</title>
-      <link>https://linkevery2s.github.io/openjapan/blog/about/</link>
-      <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://linkevery2s.github.io/openjapan/blog/about/</guid>
-      <description>&lt;p&gt;&lt;img src = &#34;https://linkevery2s.github.io/openjapan/img/data/opendata.png&#34; width=&#34;50%&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;皆さん初めまして、私、「仁志」と申します。&lt;/p&gt;
-
-&lt;p&gt;このサービスの目的から書いていこうと思います。&lt;/p&gt;
-
-&lt;p&gt;皆さんは、オープンデータをご存じでしょうか？&lt;/p&gt;
-
-&lt;p&gt;国や自治体が保有する公共データを加工しやすいデータ形式にて公開し、営利・非営利を問わず自由に使うことのできる取り組みです。&lt;/p&gt;
-
-&lt;p&gt;行政の透明化・経済の活性化が期待されています。&lt;/p&gt;
 </description>
     </item>
     
@@ -226,11 +206,31 @@
     </item>
     
     <item>
-      <title>利用規約</title>
-      <link>https://linkevery2s.github.io/openjapan/blog/rule/</link>
+      <title>このサービスについて</title>
+      <link>https://linkevery2s.github.io/openjapan/itemized/about/</link>
       <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://linkevery2s.github.io/openjapan/blog/rule/</guid>
+      <guid>https://linkevery2s.github.io/openjapan/itemized/about/</guid>
+      <description>&lt;p&gt;&lt;img src = &#34;https://linkevery2s.github.io/openjapan/img/data/opendata.png&#34; width=&#34;50%&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;皆さん初めまして、私、「仁志」と申します。&lt;/p&gt;
+
+&lt;p&gt;このサービスの目的から書いていこうと思います。&lt;/p&gt;
+
+&lt;p&gt;皆さんは、オープンデータをご存じでしょうか？&lt;/p&gt;
+
+&lt;p&gt;国や自治体が保有する公共データを加工しやすいデータ形式にて公開し、営利・非営利を問わず自由に使うことのできる取り組みです。&lt;/p&gt;
+
+&lt;p&gt;行政の透明化・経済の活性化が期待されています。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>利用規約</title>
+      <link>https://linkevery2s.github.io/openjapan/itemized/rule/</link>
+      <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://linkevery2s.github.io/openjapan/itemized/rule/</guid>
       <description>&lt;p&gt;この利用規約（以下，「本規約」といいます。）は，利用者の皆様がこの「OPEN JAPAN」サービス（以下、「本サービス」といいます。）を利用する上での利用条件を定めるものです。利用者の皆様には，本規約に従って，本サービスをご利用いただきます。&lt;/p&gt;
 
 &lt;p&gt;第1条（適用）
@@ -244,9 +244,8 @@
 管理人「仁志」は利用者数を把握するため、アクセス解析を行っています。これは、ユーザの利用状況及びサーバの負荷状態を把握するために使用するものとし、それ以外の用途では用いません。&lt;/p&gt;
 
 &lt;p&gt;第3条（禁止事項）
-本サービスの利用にあたり，以下の行為をしてはなりません。&lt;/p&gt;
-
-&lt;p&gt;（1）法令または公序良俗に違反する行為
+本サービスの利用にあたり，以下の行為をしてはなりません。
+（1）法令または公序良俗に違反する行為
 （2）犯罪行為に関連する行為
 （3）本サービスの運営を妨害するおそれのある行為
 （4）他の利用者の皆様に関する個人情報等を収集または蓄積する行為

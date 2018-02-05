@@ -27,12 +27,7 @@
   </url>
   
   <url>
-    <loc>https://linkevery2s.github.io/openjapan/blog/contact/</loc>
-    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://linkevery2s.github.io/openjapan/blog/about/</loc>
+    <loc>https://linkevery2s.github.io/openjapan/itemized/contact/</loc>
     <lastmod>2018-01-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -57,7 +52,12 @@
   </url>
   
   <url>
-    <loc>https://linkevery2s.github.io/openjapan/blog/rule/</loc>
+    <loc>https://linkevery2s.github.io/openjapan/itemized/about/</loc>
+    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://linkevery2s.github.io/openjapan/itemized/rule/</loc>
     <lastmod>2018-01-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -86,12 +86,6 @@
   <url>
     <loc>https://linkevery2s.github.io/openjapan/</loc>
     <lastmod>2018-02-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://linkevery2s.github.io/openjapan/categories/%E3%83%96%E3%83%AD%E3%82%B0/</loc>
-    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
