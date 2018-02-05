@@ -2969,3 +2969,9 @@
 .fb_iframe_widget > span {
 		vertical-align: baseline !important;
 }
+
+pre { 
+	overflow: auto; 
+	white-space: pre-wrap; 
+	word-wrap: break-word; 
+}
