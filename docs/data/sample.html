@@ -60,7 +60,7 @@ h3 {
 
 $(function(){
 	$.ajax({
-		url:'sample.xml',
+		url:'https://linkevery2s.github.io/openjapan/index.xml',
 		type:'GET',
 		dataType:'xml',
 		timeout:1000,
@@ -68,8 +68,9 @@ $(function(){
 			alert("ロード失敗");
 		},
 		success:function(xml){
-			$(xml).find("sample").each(function() {
-				$("#sample ul").append('<li>' + $(this).find('title').text() + '</li>');
+			$(xml).find("item").each(function() {
+
+				$("#sample ul").append('<li>' + $(this).find('title').text() + '<br>' + $(this).find('description').text().substr(0, 50) + '</li>');
 			});
 		}
 	});
