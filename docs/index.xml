@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OPEN･D･JAPAN</title>
+    <title>オープン・D・ジャパン</title>
     <link>https://linkevery2s.github.io/openjapan/index.xml</link>
-    <description>Recent content on OPEN･D･JAPAN</description>
+    <description>Recent content on オープン・D・ジャパン</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 04 Feb 2018 00:00:00 +0000</lastBuildDate>
@@ -132,20 +132,15 @@
       
       <guid>https://linkevery2s.github.io/openjapan/itemized/contact/</guid>
       <description>&lt;p&gt;開発者プロフィール&lt;br&gt;&lt;br&gt;
-            &lt;i class=&#34;fa fa-flag-o&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;　斎藤　仁志&lt;br&gt;&lt;br&gt;
+            &lt;i class=&#34;fa fa-flag-o&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;　Ｓ&lt;br&gt;&lt;br&gt;
             &lt;i class=&#34;fa fa-flag-o&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;　名古屋大学理学部物理学科卒業&lt;br&gt;&lt;br&gt;
             &lt;i class=&#34;fa fa-flag-o&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;　愛知県在住&lt;br&gt;&lt;br&gt;
-            ＩＴを用いて皆の暮らしのお役に立ちたい！自分に出来ることは何か…毎日奮闘中！&lt;br&gt;&lt;br&gt;
-                                &lt;ul class=&#34;icons&#34;&gt;
-                                    &lt;li&gt;&lt;a href=&#34;https://twitter.com/hitoshi2s&#34; class=&#34;icon fa-twitter&#34;&gt;&lt;span class=&#34;label&#34;&gt;Twitter&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-                                    &lt;li&gt;&lt;a href=&#34;https://www.facebook.com/hitoshi.saito.900&#34; class=&#34;icon fa-facebook&#34;&gt;&lt;span class=&#34;label&#34;&gt;Facebook&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-                                    &lt;li&gt;&lt;a href=&#34;https://www.instagram.com/hitoshi2s/?hl=ja&#34; class=&#34;icon fa-instagram&#34;&gt;&lt;span class=&#34;label&#34;&gt;Instagram&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-                                    &lt;li&gt;&lt;a href=&#34;https://github.com/linkevery2s&#34; class=&#34;icon fa-github&#34;&gt;&lt;span class=&#34;label&#34;&gt;Github&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-                                    &lt;li&gt;&lt;a href=&#34;http://ameblo.jp/hitoshi51l/&#34; class=&#34;icon fa-globe&#34;&gt;&lt;span class=&#34;label&#34;&gt;Blog&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-                                &lt;/ul&gt;
-                            &lt;ul class=&#34;actions&#34;&gt;
-                                &lt;li&gt;&lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSf-WMoBJRTdA1bmN_SmQ-bsNGeLs1l737d3c9BUNuErjH-KBw/viewform?usp=sf_link&#34; target=&#34;_blank&#34; class=&#34;button&#34;&gt;お問い合わせ&lt;/a&gt;&lt;/li&gt;
-                            &lt;/ul&gt;&lt;/p&gt;
+            ＩＴを用いて皆の暮らしのお役に立ちたい！自分に出来ることは何か…毎日奮闘中！&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;                        &amp;lt;ul class=&amp;quot;actions&amp;quot;&amp;gt;
+                            &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;https://docs.google.com/forms/d/e/1FAIpQLSf-WMoBJRTdA1bmN_SmQ-bsNGeLs1l737d3c9BUNuErjH-KBw/viewform?usp=sf_link&amp;quot; target=&amp;quot;_blank&amp;quot; class=&amp;quot;button&amp;quot;&amp;gt;お問い合わせ&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+                        &amp;lt;/ul&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
@@ -221,7 +216,23 @@
 
 &lt;p&gt;国や自治体が保有する公共データを加工しやすいデータ形式にて公開し、営利・非営利を問わず自由に使うことのできる取り組みです。&lt;/p&gt;
 
-&lt;p&gt;行政の透明化・経済の活性化が期待されています。&lt;/p&gt;
+&lt;p&gt;行政の透明化や経済の活性化が期待されています。&lt;/p&gt;
+
+&lt;p&gt;具体的に言うと…&lt;/p&gt;
+
+&lt;p&gt;情報公開が積極的に推進される時代になり、日本の行政サービスもどんどん公開されていく時代に変わりつつあります。&lt;/p&gt;
+
+&lt;p&gt;また、公共データを加工しやすいデータ形式で公開することで、官民問わず、様々なサービスを展開し、経済の活性化が図られると期待されています。&lt;/p&gt;
+
+&lt;p&gt;行政サービスは堅苦しいし、よく分からない。そんなサービスがあることすら知らなかった。&lt;/p&gt;
+
+&lt;p&gt;そんな方もいるかと思います。&lt;/p&gt;
+
+&lt;p&gt;普段何気なく、日本という国で暮らしている中で、新たな&amp;rdquo;気づき&amp;rdquo;があるかもしれません。&lt;/p&gt;
+
+&lt;p&gt;このサービスはオープンデータだけではなく、その他の統計情報やデータも用いて、展開していこうと思っています。&lt;/p&gt;
+
+&lt;p&gt;日本をもっとオープンにし、この国のことをもっと知ってみましょう！&lt;/p&gt;
 </description>
     </item>
     
