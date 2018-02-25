@@ -87,11 +87,12 @@
 
 &lt;p&gt;☆使用したオープンデータ&lt;/p&gt;
 
-&lt;p&gt;以下の資料をもとにＳが加工・編集して作成しました。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;以下の資料をもとにＳが加工・編集して作成しました。
 
-&lt;p&gt;・税に関する18の質問、財務省、&lt;a href =&#34;https://creativecommons.org/licenses/by/4.0/legalcode.ja&#34;&gt;クリエイティブ・コモンズ・ライセンス 表示4.0 国際&lt;/a&gt;&lt;/p&gt;
+・税に関する18の質問、財務省、&amp;lt;a href =&amp;quot;https://creativecommons.org/licenses/by/4.0/legalcode.ja&amp;quot;&amp;gt;クリエイティブ・コモンズ・ライセンス 表示4.0 国際&amp;lt;/a&amp;gt;
 
-&lt;p&gt;・もっと知りたい税のこと（平成29年７月発行）、財務省、&lt;a href =&#34;https://creativecommons.org/licenses/by/4.0/legalcode.ja&#34;&gt;クリエイティブ・コモンズ・ライセンス 表示4.0 国際&lt;/a&gt;&lt;/p&gt;
+・もっと知りたい税のこと（平成29年７月発行）、財務省、&amp;lt;a href =&amp;quot;https://creativecommons.org/licenses/by/4.0/legalcode.ja&amp;quot;&amp;gt;クリエイティブ・コモンズ・ライセンス 表示4.0 国際&amp;lt;/a&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
@@ -115,7 +116,8 @@
 
 &lt;p&gt;☆使用したオープンデータ&lt;/p&gt;
 
-&lt;p&gt;・G空間情報センター、強震断層モデル(1)データセットA&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;・G空間情報センター、強震断層モデル(1)データセットA
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
@@ -315,7 +317,10 @@
 
 &lt;iframe src=&#34;https://linkevery2s.github.io/openjapan/data/work.html&#34; width=&#34;100%&#34; height=&#34;600px&#34; frameborder=&#34;yes&#34; scrolling=&#34;yes&#34;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;（出典「労働経済白書」）&lt;/p&gt;
+&lt;p&gt;☆使用したオープンデータ&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;平成２９年度　労働経済の分析、厚生労働省、&amp;lt;a href =&amp;quot;https://creativecommons.org/licenses/by/4.0/legalcode.ja&amp;quot;&amp;gt;クリエイティブ・コモンズ・ライセンス 表示4.0 国際&amp;lt;/a&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
